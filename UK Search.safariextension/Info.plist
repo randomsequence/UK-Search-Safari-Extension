@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Random Sequence</string>
 	<key>Builder Version</key>
-	<string>7534.48.3</string>
+	<string>8536.26.14</string>
 	<key>CFBundleDisplayName</key>
 	<string>UK Search</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -41,6 +41,8 @@
 				<string>www.google.com</string>
 				<string>search.yahoo.com</string>
 			</array>
+			<key>Include Secure Pages</key>
+			<true/>
 			<key>Level</key>
 			<string>Some</string>
 		</dict>
